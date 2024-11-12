@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495827854608",
+    "project_id": "tutor-firebase-3fc23",
+    "storage_bucket": "tutor-firebase-3fc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495827854608:android:3b597415f5a38a9dee3195",
+        "android_client_info": {
+          "package_name": "com.example.tutor_http"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsqkfnVdbU1-NOf3BmBLu3b9TGtJn_r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
